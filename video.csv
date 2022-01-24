@@ -1,0 +1,61 @@
+action,video_id,answer,animal
+eat,rfHzAZesf4w,A,camel
+eat,UA39kqGZgZ4,A,baboon
+eat,6JLcvgfEGt0,D,guinea pig
+eat,bOBERVAbzcM,D,donkey
+eat,SxQce3iuecY,D,zebra
+drink,BLOMHs-uWv8,A,manatee
+drink,rZ15fSb-SB4,E,camel
+drink,K7ay6JFgROw,B,camel
+drink,3LN4SSv4kZY,A,bushpig
+drink,7oqpL5vbj9E,A,horse
+mate,XtsSblUam1U,A,elephant
+mate,O9759XfpLiU,A,baboon
+mate,hWx3Lng7Tbk,D,guinea pig
+mate,1Ssm4T7S6Co,D,squirrel
+mate,XD-RIhgSobY,A,husky dog
+feed baby,r6jK9gg0lzQ,E,fisher
+feed baby,T2xgb1rDE_E,D,donkey
+feed baby,-QgwjFRi-6Y,A,orangutan
+feed baby,gclrETIui64,A,cheetah
+feed baby,hIAeQc-WgW4,E,lion
+nurse,XoVbwh4do2g,A,camel
+nurse,NEc1TqnZyEM,A,pig
+nurse,hkGdohYXFho,D,koala
+nurse,afcjmQ-1Ym4,E,squirrel
+nurse,3bu2XDZgkeY,A,deer
+birth,NOGCBC0VOnU,A,moose
+birth,0cmW6C9Z09Q,A,guinea pig
+birth,2UNQpHS4Ork,D,tapir
+birth,lBbeTrZmTn0,D,bison
+birth,8LiZC4aiFMw,B,caribou
+fight,aXB2X3u4M1k,A,spotted hyena
+fight,3T0z1CT-nR8,A,gorilla
+fight,aJS_6vY3_kI,A,sun bear
+fight,u3Suae4csCQ,B,elk
+fight,wxLzaNNG9EI,B,raccoon
+sleep,8XLhamcWVtM,A,white rhino
+sleep,#NAME?,A,deer
+sleep,kYZN3IAKoLQ,A,gibbon
+sleep,9Vz_pyHCOeQ,B,walrus
+sleep,huJZF4022W0,A,pig
+vomit,QiV2S7picNk,D,moose
+vomit,0kHSNleOWkk,E,alpaca
+vomit,KxRGbak9yVE,A,hamster
+vomit,kAHV_UG-sHc,D,gorilla
+vomit,x4gjt9cTjJY,A,gorilla
+groom,wbJs89vAGTI,A,spider monkey
+groom,ZyJcQuPfImw,A,chinchialla
+groom,pm9Utxno6k8,A,baboon
+groom,palBNChv5aA,E,gorilla
+groom,7YYMJo_wauc,D,gorilla
+poop,yKQVB89BRM4,D,llama
+poop,qYlQibHkYl8,A,giraffe
+poop,GmzFqXKM5g0,A,buffalo
+poop,XKwX5V9eZ-g,E,horse
+poop,YXDogBd5DNs,A,zebra
+hunt,U3llDZT1pYk,A,chettah
+hunt,1WlaXKEBUQA,D,chettah
+hunt,O6TUnt-CN3g,D,black bear
+hunt,Kfc5TMovz5k,A,lion
+hunt,W4MsjIXsa5k,B,arctic fox
